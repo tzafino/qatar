@@ -29,7 +29,7 @@
   
 {"number":"161","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/bbc.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
 {"number":"171","name":"AL JAZEERA ENGLISH (قناة الجزيرة)","description":"","logo":"/AL JAZEERA EN.jpg","streamUrl":"http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8","yourmuzeId":"0","state":"1"},   
-{"number":"181","name":"Radio Monte Carlo Doualiya","description":"","logo":"/monte carlo dawlia.jpg","streamUrl":"https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
+{"number":"181","name":"Radio Monte Carlo Doualiya","description":"","logo":"/monte carlo dawlia.jpg","streamUrl":"http://live02.mc-doualiya.com/mc-doualiya.mp3","yourmuzeId":"0","state":"1"},
 {"number":"191","name":"sky news arabia (سكاي نيوز عربية)","description":"","logo":"/skynewsarabic.jpg","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},   
 {"number":"201","name":"FM العربية","description":"","logo":"/FM العربية.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/playlist.m3u8","yourmuzeId":"0","state":"1"},   
 {"number":"211","name":"Radio Al Jazeera Arabic (إذاعة الجزيرة العربية)","description":"","logo":"/Radio Al Jazeera Arabic.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"}, 
